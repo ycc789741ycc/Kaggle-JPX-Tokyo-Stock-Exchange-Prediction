@@ -24,8 +24,10 @@ To achieve the Kaggle topic and share the result base on personal understanding.
 # How to work with this repository?
 * Step 1: Fork this repository to your personal repository  
 <img src="./images/fork_repo.png" width="300">  
+  
 * Step 2: Go to your forked repository and copy the url  
 <img src="./images/copy_the_url.png" width="300">  
+  
 * Step 3: Clone the forked repository you the url you just copied  
 ```bash
 git clone <COPIED_URL>
@@ -42,6 +44,7 @@ git add ./JPX_Tokyo_Stock_Exchange_Prediction/<YOUR_IPYNB>
 git commit -m "<COMMIT MESSAGE WHAT EVER YOU WANT>"
 ```  
 `NOTE: DON'T COMMIT THE DATASET OR BINARY FILE TO THE REPOSITORY!!`  
+  
 * Step 2: Push to your personal github repository from your local  
 ```bash
 git push origin
