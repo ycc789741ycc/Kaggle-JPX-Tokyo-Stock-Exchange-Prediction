@@ -23,32 +23,32 @@ To achieve the Kaggle topic and share the result base on personal understanding.
 
 # How to work with this repository?
 * Step 1: Fork this repository to your personal repository  
-<img src="./images/fork_repo.png" width="300">
-* Step 2: Go to your forked repository and copy the url
-<img src="./images/copy_the_url.png" width="300">
-* Step 3: Clone the forked repository you the url you just copied
+<img src="./images/fork_repo.png" width="300">  
+* Step 2: Go to your forked repository and copy the url  
+<img src="./images/copy_the_url.png" width="300">  
+* Step 3: Clone the forked repository you the url you just copied  
 ```bash
-git clone <url>
-```
-> Start your work under the directory `JPX_Tokyo_Stock_Exchange_Prediction`
-* Step 1: Copy the `template.ipynb`
-* Step 2: Rename the file to your github user name
-* Step 3: Try to work around, feel free to make the edition on the markdown cell :D.
+git clone <COPIED_URL>
+```  
+> Start your work under the directory `JPX_Tokyo_Stock_Exchange_Prediction`  
+* Step 1: Copy the `template.ipynb`  
+* Step 2: Rename the file to your github user name  
+* Step 3: Try to work around, feel free to make the edition on the markdown cell :D.  
 
 > After you finish the work you done  
 * Step 1: Make commit on your local repository  
 ```bash
 git add ./JPX_Tokyo_Stock_Exchange_Prediction/<YOUR_IPYNB>
 git commit -m "<COMMIT MESSAGE WHAT EVER YOU WANT>"
-```
-`NOTE: DON'T COMMIT THE DATASET OR BINARY FILE TO THE REPOSITORY!!`
+```  
+`NOTE: DON'T COMMIT THE DATASET OR BINARY FILE TO THE REPOSITORY!!`  
 * Step 2: Push to your personal github repository from your local  
 ```bash
 git push origin
-```
+```  
 * Step 3: Make Pull Request from your forked repository to source repository  
     - Go to the source repository  
-<img src="./images/pull_request.png" width="600">
+<img src="./images/pull_request.png" width="600">  
 
-# Discussion Time Line
-After 2 weeks, 12/3 (temporary)
+# Discussion Time Line  
+After 2 weeks, 12/3 (temporary)  
