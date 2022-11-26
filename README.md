@@ -5,23 +5,24 @@
 To achieve the Kaggle topic and share the result base on personal understanding.  
 
 # Framework
-> Data processing
+> ## Data processing
 * The codding process you handle for the raw data.
 * How you handle for the missing value or skew dataset and why?
-> EDA
+> ## EDA
 * Data visualization
 * What you observe after the data exploration in your comprehension?
-> Feature Engineering
+> ## Feature Engineering
 * After finishing the EDA, what's the next step you performing the feature transform?
-> Model Selection
+> ## Model Selection
 * How to decide the baseline model?
 * Which performance metrics would you pick for model evaluation and why?
-> Model training
+> ## Model training
 * Conduct the training process on the model you selected.
-> Evaluate On Testing Environment
+> ## Evaluate On Testing Environment
 * Evaluate you model on the testing dataset
 
 # How to work with this repository?
+> ## Fork the source repository  
 * Step 1: Fork this repository to your personal repository  
 <img src="./images/fork_repo.png" width="300">  
   
@@ -32,12 +33,12 @@ To achieve the Kaggle topic and share the result base on personal understanding.
 ```bash
 git clone <COPIED_URL>
 ```  
-> Start your work under the directory `JPX_Tokyo_Stock_Exchange_Prediction`  
+> ## Start your work under the directory `JPX_Tokyo_Stock_Exchange_Prediction`  
 * Step 1: Copy the `template.ipynb`  
 * Step 2: Rename the file to your github user name  
 * Step 3: Try to work around, feel free to make the edition on the markdown cell :D.  
 
-> After you finish the work you done  
+> ## After you finish the work you done  
 * Step 1: Make commit on your local repository  
 ```bash
 git add ./JPX_Tokyo_Stock_Exchange_Prediction/<YOUR_IPYNB>
