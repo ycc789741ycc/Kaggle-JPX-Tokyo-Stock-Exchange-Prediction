@@ -35,7 +35,7 @@ git clone <COPIED_URL>
 ```  
 > ## Start your work under the directory `JPX_Tokyo_Stock_Exchange_Prediction`  
 * Step 1: Copy the `template.ipynb`  
-* Step 2: Rename the file to your github user name  
+* Step 2: Rename the file to `kaggle_<GITHUB_USER_NAME>.ipynb` or other you may want  
 * Step 3: Try to work around, feel free to make the edition on the markdown cell :D.  
 
 > ## After you finish the work you done  
